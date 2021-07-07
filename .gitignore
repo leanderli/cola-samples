@@ -1,0 +1,7 @@
+# Project exclude paths
+/craftsman/craftsman-adapter/target/
+/craftsman/craftsman-app/target/
+/craftsman/craftsman-client/target/
+/craftsman/craftsman-domain/target/
+/craftsman/craftsman-infrastructure/target/
+/craftsman/start/target/

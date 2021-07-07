@@ -5,3 +5,11 @@
 /craftsman/craftsman-domain/target/
 /craftsman/craftsman-infrastructure/target/
 /craftsman/start/target/
+.idea
+/craftsman/craftsman.all.iml
+/craftsman/craftsman-adapter/craftsman-adapter.iml
+/craftsman/craftsman-app/craftsman-app.iml
+/craftsman/craftsman-client/craftsman-client.iml
+/craftsman/craftsman-domain/craftsman-domain.iml
+/craftsman/craftsman-infrastructure/craftsman-infrastructure.iml
+/craftsman/start/start.iml
